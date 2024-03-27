@@ -14,7 +14,6 @@ Tweet Sentiment's Impact on Stock Returns
 3.1 数据摘要和可视化
 数据摘要
 标称属性，给出每个可能取值的频数
-
 数值属性，给出5数概括及缺失值的个数
 数据可视化
 使用直方图、盒图等检查数据分布及离群点
@@ -30,4 +29,5 @@ Tweet Sentiment's Impact on Stock Returns
 所选择的数据集在仓库的README文件中说明
 相关的数据文件不要上传到代码仓库中
 建议：使用Jupyter Notebook将分析报告和代码组织在一起，使用Notebook的导出功能将报告导出为PDF格式的文件上传到乐学。
+
 使用到的数据集为GitHub Dataset（数据处理在data mining1.ipynb中） 和Movies Dataset from Pirated Sites（数据处理在data mining2.ipynb)中。
