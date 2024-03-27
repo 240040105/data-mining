@@ -30,4 +30,4 @@ Tweet Sentiment's Impact on Stock Returns
 相关的数据文件不要上传到代码仓库中
 建议：使用Jupyter Notebook将分析报告和代码组织在一起，使用Notebook的导出功能将报告导出为PDF格式的文件上传到乐学。
 
-使用到的数据集为GitHub Dataset（数据处理在data mining1.ipynb中） 和Movies Dataset from Pirated Sites（数据处理在data mining2.ipynb)中。
+使用到的数据集为GitHub Dataset（数据处理在data mining1.ipynb中） 和Movies Dataset from Pirated Sites（数据处理在data mining2.ipynb)中。最后将两个数据集的处理和在一起的时data_mining_all.ipynb
